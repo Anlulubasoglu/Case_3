@@ -1,0 +1,17 @@
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\bin\Debug\11_OOPModule.EFProject.exe.config
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\bin\Debug\11_OOPModule.EFProject.exe
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\bin\Debug\11_OOPModule.EFProject.pdb
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\bin\Debug\EntityFramework.dll
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\bin\Debug\EntityFramework.xml
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\obj\Debug\11_OOPModule.EFProject.csproj.AssemblyReference.cache
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\obj\Debug\_11_OOPModule.EFProject.Form1.resources
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\obj\Debug\_11_OOPModule.EFProject.Properties.Resources.resources
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\obj\Debug\11_OOPModule.EFProject.csproj.GenerateResource.cache
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\obj\Debug\11_OOPModule.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\obj\Debug\11_OOPMo.46C6BD89.Up2Date
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\obj\Debug\11_OOPModule.EFProject.exe
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\obj\Debug\11_OOPModule.EFProject.pdb
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\obj\Debug\_11_OOPModule.EFProject.Form2.resources
+C:\Users\ANIL-SELDA\source\repos\11_OOPModule\11_OOPModule.EFProject\obj\Debug\_11_OOPModule.EFProject.FrmStatistic.resources
