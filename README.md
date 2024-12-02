@@ -43,7 +43,7 @@ Veritabanımda silme,güncelleme,Silme,vb işlemleri yaparak veritabanını etki
 
 
 
-
+![Proje11](https://github.com/user-attachments/assets/3b50d540-903c-43b7-ba1a-97239641860f)
 
 
 
